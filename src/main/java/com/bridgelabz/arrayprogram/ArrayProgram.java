@@ -6,12 +6,13 @@ public class ArrayProgram {
         int max= array[0];
         for(int i =0; i <array.length; i++){
             System.out.println(array[i]);
-
             for (int j=1; i< array.length; i++){
                 if(array[j] > max){
                     max=array[j];
                 }
             }
+
+
 
             System.out.println("Array Element:");
             System.out.println("Largest Element : " +max);
