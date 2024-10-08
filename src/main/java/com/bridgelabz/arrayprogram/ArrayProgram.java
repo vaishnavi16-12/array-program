@@ -11,10 +11,6 @@ public class ArrayProgram {
                     max=array[j];
                 }
             }
-
-
-
-            System.out.println("Array Element:");
             System.out.println("Largest Element : " +max);
         }
 
