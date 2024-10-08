@@ -2,7 +2,7 @@ package com.bridgelabz.arrayprogram;
 
 public class SmallestElement {
     public static void main(String[] args) {
-        int arr []= {10,20,30,40,50};
+        int arr []= {5,10,20,30,40,50};
 
         int min=arr[0];
 
